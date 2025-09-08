@@ -1,0 +1,24 @@
+body{
+    background-color: lightpink;
+    color: #592226;
+    font-family: Verdana;
+}
+header{
+    background-color: #bb6269;
+    color: white;
+    padding: 20px;
+    border: #592226 2px solid;
+    border-radius: 10px;
+}
+section{
+    background-color: #c79394;
+    border: #592226 2px solid;
+    border-radius: 10px;
+}
+#wynik{
+    background-color: #e5b0b0;
+    padding: 5px;
+}
+input{
+    margin-bottom: 5px;
+}
