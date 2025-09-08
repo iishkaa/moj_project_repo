@@ -44,5 +44,5 @@ $polskie_miesiace = [
         return $dzien .' ' . $polskie_miesiace[$miesiac] . ' ' . $rok;
     }
     $data = getdate();
-    echo wyswietlDate($data);
+    echo wyswietlDate($data)  ;
 ?>
