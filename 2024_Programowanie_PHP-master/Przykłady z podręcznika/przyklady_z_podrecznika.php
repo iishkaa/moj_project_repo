@@ -2100,7 +2100,7 @@ echo<<<END
 		<td>SUMA</td> <td>$suma PLN</td>
 	</tr>
 	</table>
-	<br /><a href="index.php">Powrót do strony głównej</a>
+	<br /><a href="stronaglowna.php">Powrót do strony głównej</a>
 
 END;
 
