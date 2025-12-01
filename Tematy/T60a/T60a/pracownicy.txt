@@ -1,0 +1,115 @@
+Numer id.;Nazwisko;Imiê;Stanowisko;Dzia³;Sekcja
+1975;Frankowski;Leon;Asyst. Ksiêg.;Ksiêgowoœæ;kopiarki
+1976;Pietrzak;Robert;St. Asyst. Admin.;In¿.-Tech.;drukarki
+1977;Adamiak;Tomasz;St. Asyst. Admin.;In¿.-Tech.;faksy
+1978;Dorg;Jarek;In¿ynier informatyk;In¿.-Tech.;kopiarki
+1979;Berwicki;Sam;Sprzedawca;Marketing;kopiarki
+1980;Miller;Urszula;Ksiêgowy;Ksiêgowoœæ;kopiarki
+1981;Ruda;Felicja;Asyst. Admin.;Admin.;kopiarki
+1982;Welicki;Jarek;Asyst. Admin.;Admin.;kopiarki
+1983;Kania;S³awek;Asyst. Projekt.;Reklama;drukarki
+1984;Czowski;Robert;Asyst. Projekt.;Reklama;faksy
+1985;Lin;Micha³;In¿ynier informatyk;In¿.-Tech.;faksy
+1986;Alkowski;Dariusz;Asyst. Tech.;In¿.-Tech.;faksy
+1987;Martin;Sara;Sprzedawca;Marketing;kopiarki
+1988;Miller;Janina;Sprzedawca;Marketing;kopiarki
+1989;Leski;Eryk;Analityk;Magazyn;faksy
+1990;Abramowicz;Bolek;Asyst. Admin.;Admin.;faksy
+1991;Baton;Ilona;Projektant;Reklama;kopiarki
+1992;Goldberg;Maria;Sprzedawca;Marketing;faksy
+1993;Lanik;Piotr;Sprzedawca;Marketing;faksy
+1994;Stawicki;Karol;Asyst. Admin.;Admin.;drukarki
+1995;Smok;Honoriusz;Asyst. Projekt.;Reklama;kopiarki
+1996;Maczek;Maria;Projektant;Reklama;kopiarki
+1997;Keln;Tomasz;Asyst. Admin.;In¿.-Tech.;drukarki
+1998;Silwer;Jan;In¿ynier proj.;In¿.-Tech.;faksy
+1999;Albert;Max;St. Asyst. Admin.;Marketing;kopiarki
+2000;Lemska;Aleksandra;Analityk;Magazyn;kopiarki
+2001;Coniak;Lida;Asyst. Admin.;Admin.;faksy
+2002;Reski;Filip;Ksiêgowy;Ksiêgowoœæ;drukarki
+2003;Henczak;Marek;Asyst. Ksiêg.;Ksiêgowoœæ;drukarki
+2004;Foniecki;Jan;St. Asyst. Admin.;Ksiêgowoœæ;kopiarki
+2005;Planczak;Alan;St. Asyst. Admin.;Ksiêgowoœæ;drukarki
+2006;Miller;Krzysztof;Asyst. Admin.;Admin.;faksy
+2007;Batecka;Liza;Asyst. Admin.;Admin.;kopiarki
+2008;Alska;Izolda;Technik;In¿.-Tech.;faksy
+2009;Dawid;Karen;Technik;In¿.-Tech.;drukarki
+2010;Szczygie³;Tadeusz;Technik;In¿.-Tech.;kopiarki
+2011;Sikora;Sandra;Asyst. Tech.;In¿.-Tech.;kopiarki
+2012;Siwicki;Radek;Asyst. Admin.;Marketing;faksy
+2013;Chojnacki;Stefan;St. Asyst. Admin.;Marketing;drukarki
+2014;Sawicka;Ewelina;Sprzedawca;Marketing;kopiarki
+2015;Terewicz;Robert;St. Asyst. Admin.;Magazyn;drukarki
+2016;Kanek;Mirek;St. Asyst. Admin.;Magazyn;faksy
+2017;Sanicka;Anna;Ksiêgowy;Ksiêgowoœæ;kopiarki
+2018;Borowski;Franek;Asyst. Ksiêg.;Ksiêgowoœæ;faksy
+2019;Gordon;Halina;Asyst. Ksiêg.;Ksiêgowoœæ;kopiarki
+2020;Melen;Justyna;St. Asyst. Admin.;Ksiêgowoœæ;faksy
+2021;Prenak;Liza;In¿ynier mechanik;In¿.-Tech.;drukarki
+2022;Czowska;Maria;In¿ynier informatyk;In¿.-Tech.;drukarki
+2023;Szczygie³;Halina;Technik;In¿.-Tech.;faksy
+2024;Nowak;Tomasz;Technik;In¿.-Tech.;drukarki
+2025;Kowalska;Natalia;Sprzedawca;Marketing;drukarki
+2026;Wejno;Ró¿a;Ksiêgowy;Ksiêgowoœæ;drukarki
+2027;Bielecki;Tom;Asyst. Ksiêg.;Ksiêgowoœæ;drukarki
+2028;Borek;Karen;Mened¿er;In¿.-Tech.;drukarki
+2029;Wnuk;Denis;In¿ynier informatyk;In¿.-Tech.;kopiarki
+2030;Siwicki;Leszek;In¿ynier informatyk;In¿.-Tech.;drukarki
+2031;Komar;Teodor;Asyst. Admin.;Marketing;kopiarki
+2032;Prosty;Helena;Asyst. Admin.;Admin.;drukarki
+2033;Branek;Amelia;Projektant;Reklama;drukarki
+2034;Dmoch;Sylwia;Asyst. Admin.;In¿.-Tech.;kopiarki
+2035;Kenig;Pamela;Asyst. Admin.;In¿.-Tech.;faksy
+2036;Alecka;Stefania;In¿ynier proj.;In¿.-Tech.;drukarki
+2037;Wolf;Iza;In¿ynier mechanik;In¿.-Tech.;kopiarki
+2038;Halski;Karol;Asyst. Admin.;Marketing;drukarki
+2039;Taczek;Radek;Mened¿er;Marketing;drukarki
+2040;Bielecki;Franek;Sprzedawca;Marketing;faksy
+2041;Jaworski;Darek;St. Asyst. Admin.;Magazyn;kopiarki
+2042;Ska³a;Gra¿yna;Projektant;Reklama;faksy
+2043;Mann;Alicja;In¿ynier mechanik;In¿.-Tech.;drukarki
+2044;Szczygie³;Witold;Asyst. Tech.;In¿.-Tech.;drukarki
+2045;Fryzjer;Liza;Sprzedawca;Marketing;faksy
+2046;Rowal;Bo¿ena;Ksiêgowy;Ksiêgowoœæ;faksy
+2047;Nelson;Edward;Projektant;Reklama;faksy
+2048;Rawin;Alicja;St. Asyst. Admin.;In¿.-Tech.;kopiarki
+2049;Welski;Sam;St. In¿ynier;In¿.-Tech.;faksy
+2050;Glad;Weronika;In¿ynier informatyk;In¿.-Tech.;faksy
+2051;Tupak;Anna;Technik;In¿.-Tech.;drukarki
+2052;Bankier;Renata;Asyst. Admin.;Marketing;drukarki
+2053;Homer;Mirek;St. Asyst. Admin.;Marketing;drukarki
+2054;Morton;Sara;Sprzedawca;Marketing;drukarki
+2055;Kamiñska;Czes³awa;Technik;Magazyn;drukarki
+2056;Wujek;Tania;Asyst. Admin.;Admin.;faksy
+2057;Ferczyk;Karolina;Mened¿er;In¿.-Tech.;kopiarki
+2058;Bartczak;Sandra;Mened¿er;Magazyn;faksy
+2059;Towiñska;Ewa;Analityk;Magazyn;drukarki
+2060;Zostocka;Melisa;Dyrektor;Admin.;faksy
+2061;Fermer;Julek;St. In¿ynier;In¿.-Tech.;drukarki
+2062;Jaworska;Liza;Asyst. Tech.;In¿.-Tech.;drukarki
+2063;Harczak;Bartek;Asyst. Mened¿.;Magazyn;drukarki
+2064;Piotrowski;Dawid;Asyst. Mened¿.;Magazyn;kopiarki
+2065;Kolicki;Bolek;Asyst. Admin.;Admin.;drukarki
+2066;Seweryn;Mateusz;Sprzedawca;Marketing;drukarki
+2067;Hocka;Aleksandra;Mened¿er;Admin.;drukarki
+2068;Bergen;Bo¿ena;Asyst. Mened¿.;In¿.-Tech.;faksy
+2069;Sofiñski;Ariel;St. In¿ynier;In¿.-Tech.;drukarki
+2070;Salomon;Aram;In¿ynier informatyk;In¿.-Tech.;kopiarki
+2071;Larkin;Donald;In¿ynier informatyk;In¿.-Tech.;drukarki
+2072;Pó³kowicz;Robert;In¿ynier mechanik;In¿.-Tech.;faksy
+2073;Kraczyk;Piotr;Technik;In¿.-Tech.;drukarki
+2074;Farmer;Sam;Mened¿er;Marketing;kopiarki
+2075;Samion;Marek;Sprzedawca;Marketing;drukarki
+2076;Fosz;Feliks;Analityk;Magazyn;drukarki
+2077;Larek;Eryka;Szef biura;Admin.;drukarki
+2078;Seweryn;Ryszard;St. Mened¿er;Marketing;faksy
+2079;Samiak;Karol;Sprzedawca;Marketing;kopiarki
+2080;Kortowski;Czarek;Sprzedawca;Marketing;kopiarki
+2081;Weso³y;Marek;Sprzedawca;Marketing;drukarki
+2082;Malik;Helena;Ksiêgowy;Ksiêgowoœæ;faksy
+2083;Janowski;Micha³;St. In¿ynier;In¿.-Tech.;faksy
+2084;Berek;Zuzanna;St. In¿ynier;In¿.-Tech.;kopiarki
+2085;Wolska;Helena;Sprzedawca;Marketing;drukarki
+2086;Makarek;Krystyna;G³ówny In¿ynier;In¿.-Tech.;kopiarki
+2087;Adamska;Kasia;In¿ynier mechanik;In¿.-Tech.;kopiarki
+2088;Gonczyk;Jan;St. Mened¿er;Admin.;kopiarki
