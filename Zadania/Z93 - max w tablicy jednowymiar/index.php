@@ -12,7 +12,9 @@
     <hr>
 </header>
 <section>
-    <pre>Napisz program, który wczytuje liczby całkowite do jednowymiarowej tablicy, wyświetla tę tablicę i wyświetla maksymalną wartość zapisaną w tablicy. Użytkownik wprowadza liczby do komponentu textarea oddzielone przecinkami. Program powinien zweryfikować, czy podane wartości są liczbami całkowitymi, a w odpowiedzi podać liczbę elementów w tablicy oraz maksymalną wartość.
+    <pre>Napisz program, który wczytuje liczby całkowite do jednowymiarowej tablicy, wyświetla tę tablicę i wyświetla maksymalną wartość zapisaną w tablicy.
+        Użytkownik wprowadza liczby do komponentu textarea oddzielone przecinkami. Program powinien zweryfikować, czy podane wartości są liczbami całkowitymi,
+        a w odpowiedzi podać liczbę elementów w tablicy oraz maksymalną wartość.
 
 Wskazówki dla ucznia:
 Użyj explode(), aby rozdzielić ciąg z textarea na tablicę liczb na podstawie przecinków.
